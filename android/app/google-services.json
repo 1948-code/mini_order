@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "56240485618",
+    "project_id": "miniorder-232b5",
+    "storage_bucket": "miniorder-232b5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56240485618:android:c5fcd633294ca257e34c6b",
+        "android_client_info": {
+          "package_name": "com.example.mini_order"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8iav1zcpA4x6cVvaYEBRJbzcsNl58rbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
