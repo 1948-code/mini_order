@@ -52,3 +52,4 @@ Based on the clean folder structure implementation:
 * `lib/services/`: Cloud and local data handling logic.
 * `lib/views/`: Organized UI screens (Admin, User, Auth).
 
+
