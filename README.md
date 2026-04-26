@@ -52,11 +52,3 @@ Based on the clean folder structure implementation:
 * `lib/services/`: Cloud and local data handling logic.
 * `lib/views/`: Organized UI screens (Admin, User, Auth).
 
-## Screenshots
-
-<p align="center">
-  <img src="s<img width="547" height="1110" alt="1" src="https://github.com/user-attachments/assets/f4c2ab46-bd77-45c1-9c43-a94e2ad0e95c" />
-" width="30%" />
-  <img src="screenshots/cart_screen.png" width="30%" />
-  <img src="screenshots/admin_panel.png" width="30%" />
-</p>
